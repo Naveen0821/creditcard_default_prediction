@@ -67,6 +67,10 @@ Target Label:
 Whether a person shall default in the credit card payment or not.
 9.	default payment next month:  Yes = 1, No = 0
 
+## Exploratory Data Analysis
+
+[EDA](EDA/creditCardFraudEDA.ipynb)
+
 # How run it?
 
 ### STEPS:
